@@ -1,0 +1,6 @@
+lv\valts\orniks\letter\counter\utils\FileWriter.class
+lv\valts\orniks\letter\counter\Main.class
+lv\valts\orniks\letter\counter\ui\controller\MainController.class
+lv\valts\orniks\letter\counter\service\LetterCountingService.class
+lv\valts\orniks\letter\counter\ui\GUI.class
+lv\valts\orniks\letter\counter\service\CountResult.class
